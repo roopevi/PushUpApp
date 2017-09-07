@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PushUp App</string>
+
+    <string name="instructions">Place the phone on the ground below your chest and start doing PUSH UP\'S!
+        You have 30 seconds time to do as many push up\'s as possible.</string>
+
+    <string name="result">Your score: </string>
+    <string name="push_ups">push ups.</string>
+
+    <string name="poor">That\'s a poor result!</string>
+    <string name="decent">That\'s a decent result!</string>
+    <string name="good">Nice! That\'s good result!</string>
+    <string name="beast">You are a BEAST!</string>
+
+    <string name="back_to_menu">Back To Menu</string>
+
+</resources>
